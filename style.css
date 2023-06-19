@@ -1,0 +1,41 @@
+.container{
+    width: 50%;
+    min-height: 200px;   
+    border: 1px solid brown;
+    background-color:#a52a2a52;
+    margin: 20px auto;
+    border-radius:5px ;
+}
+.form-group{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    margin: 20px 0px ;
+}
+input,button{
+    margin: auto;
+    display: block;
+}
+input{
+    width: 50%;
+    border: 0;
+    border: 1px solid brown;
+    height: 20px;
+    border-radius: 8px;
+}
+button{
+    border: 0;
+    width: 25%;
+    height: 39px;
+    background-color: brown;
+    border-radius: 6px;
+}
+.notes, h1{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.form-button{
+    display: inline;
+    margin-left: 10px;
+}
